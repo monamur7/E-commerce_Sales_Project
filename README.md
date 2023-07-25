@@ -1,5 +1,9 @@
 # E-commerce_Sales_Project
-Developed an interactive and customizable sales data dashboard with various visualization types, complex parameters, filters, slicers, data connections, and calculations to enable in-depth analysis and user-driven insights using Power BI.
+
+• Created an interactive dashboard to track and analyze online sales data. </p>
+• Used complex parameters to drill down in worksheets and customization using filters and slicers. </p>
+• Created connections, joined new tables, and calculations to manipulate data and enable user-driven parameters for visualizations. </p>
+• Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc). 
 
 
 <table>
