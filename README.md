@@ -1,4 +1,4 @@
-# E-commerce_Sales_Project
+# E-commerce Sales Project
 
 • Created an interactive dashboard to track and analyze online sales data. </p>
 • Used complex parameters to drill down in worksheets and customization using filters and slicers. </p>
